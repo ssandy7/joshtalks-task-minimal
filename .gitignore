@@ -1,0 +1,9 @@
+# Android / Gradle
+/.gradle
+/build
+/app/build
+/local.properties
+/.idea
+*.iml
+gradle-wrapper.jar
+/.DS_Store

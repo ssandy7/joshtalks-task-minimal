@@ -1,0 +1,2 @@
+rootProject.name = "joshtalks-task-minimal"
+include ':app'
